@@ -1,6 +1,8 @@
-![logo](https://github.com/Akshay0326/Akshay0326/blob/main/Akshay_Kumar_(Computer_Science_Engineer).png)
-<h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h1 align=center>Hello, I'm Akshay Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<p align = "center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;A+Little+More;Kinded+And+A+Little+Less+Judgemental;To+Myself+And+Others+.&center=true&width=500&height=70"></a>
+  </p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -9,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay0326&label=Profile%20views&color=0e75b6&style=flat" alt="akshay0326" /> </p>
 
-- 🌱 I’m currently learning **DSA , Full-Stack, And Competitive Programming**
+- 🌱 I’m currently learning **DSA , Full-Stack Web Development, And Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshay0326](https://github.com/Akshay0326)
 
@@ -21,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/itsakshaykrs](https://www.linkedin.com/in/itsakshaykrs)
 
-- ⚡ Fun fact **I think I'm the best 😁**
+- ⚡ Fun fact **Anime is Love 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
