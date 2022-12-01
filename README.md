@@ -1,4 +1,4 @@
-![logo](https://github.com/Akshay0326/Akshay0326/blob/main/IMG_20221201_141614.jpg)
+![logo](https://github.com/Akshay0326/Akshay0326/blob/main/Akshay_Kumar_(Computer_Science_Engineer).png)
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
